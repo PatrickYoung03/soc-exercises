@@ -1,9 +1,10 @@
-// Looping through arrays exercises:
+// Array tasks 3:
 
-// 1. Loop through this array and multiply each number by itself
+// 1. "loop" through this array and multiply each number by itself using forEach
 var numbers = [2, 4, 6, 8];
 
-// 2. Loop through this array and add 10 to every odd index in the array
-var numbers = [1, 2, 3, 4, 5];
+// 2. create a new array from this array that contains each number x 100
+var numbers2 = [1, 2, 3, 4, 5];
 
-// 3. Loop through this array and subtract 1 from each item in the array who’s index is greater than 5
+// 3. filter through this array and return only the numbers that are lower than 1000
+var numbers3 = [1, 78, 32, 23, 45, 2000, 3456, 2, 23, 213506, 33, 23];
